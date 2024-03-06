@@ -12,9 +12,11 @@ I'm a creative problem-solver who enjoys building innovative solutions to real-w
 I'm currently honing my skills in javascript engineering, with a particular focus on Node.js and React.js. I'm passionate about learning new technologies and techniques, and I'm always looking for ways to improve my skills and expand my knowledge.
 
 💻 My Work
+===========================
 I take pride in creating high-quality, well-designed software that is both functional and user-friendly. I'm committed to writing clean, efficient code that is easy to read and maintain.
 
-I'm currently working on several projects, including:
+I'm currently working on several projects,including:
+==========================
 
 BEAMit: BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
 
@@ -37,6 +39,7 @@ Currently in development, the platform is focused on creating a user-friendly in
 I'm always looking for new opportunities to collaborate on exciting projects. If you're interested in working together, please don't hesitate to reach out!
 
 💬 Get in Touch
+================================
 I'm always happy to connect with other developers and share ideas or experiences. Here's how you can reach me:
 
 Whatsapp: 072 158 6499
@@ -45,6 +48,7 @@ Email: sibusiso.ngubeni.428@gmail.com
 I'm also available for freelance work or consulting projects. Let's build something amazing together!
 
 📝 License
+===========================
 Unless otherwise noted, all of my projects are licensed under the MIT License.
 
 
