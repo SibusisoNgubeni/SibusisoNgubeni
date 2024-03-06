@@ -18,8 +18,9 @@ I take pride in creating high-quality, well-designed software that is both funct
 I'm currently working on several projects,including:
 ==========================
 
-BEAMit
-=======================: BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
+BEAMit:
+======================= 
+BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
 
 As a developer, i'm in the early stages of building BEAM, currently focusing on CSS and HTML. While i'm still learning about JS, databases, and APIs, i have a clear vision for the platform's features and benefits.
 
@@ -31,8 +32,9 @@ The platform's niche and target audience are yet to be identified, For example, 
 
 
 
-BafokengPhokeng
-================================: BafokengPhokeng is an innovative platform designed to cater specifically to the Bafokeng community, providing a comprehensive solution for the various needs of the Bafokeng community. The platform will serve as a media sharing platform for Bafokeng news, events, and social expression, allowing users to stay informed and connected with their community. It will also function as an instant messaging platform, enabling real-time communication between users.
+BafokengPhokeng:
+================================ 
+BafokengPhokeng is an innovative platform designed to cater specifically to the Bafokeng community, providing a comprehensive solution for the various needs of the Bafokeng community. The platform will serve as a media sharing platform for Bafokeng news, events, and social expression, allowing users to stay informed and connected with their community. It will also function as an instant messaging platform, enabling real-time communication between users.
 
 Furthermore, BafokengPhokeng will serve as an online marketplace for small businesses and individuals to buy and sell items, as well as form business relationships to boost the Bafokeng economy. The platform will function as an escrow agent between online buyers and sellers, minimizing online fraud and building trust within the community. The platform will also provide a broadcast feature for the Royal Bafokeng Administration to communicate announcements to the Bafokeng public, ensuring that important information is spread effectively.
 
