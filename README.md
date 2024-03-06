@@ -20,7 +20,7 @@ I'm currently working on several projects,including:
 
 BEAMit:
 ======================= 
-BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
+BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
 
 As a developer, i'm in the early stages of building BEAM, currently focusing on CSS and HTML. While i'm still learning about JS, databases, and APIs, i have a clear vision for the platform's features and benefits.
 
