@@ -30,6 +30,7 @@ For organizations, BEAMit will offer a premium paid version with access to stati
 
 The platform's niche and target audience are yet to be identified, For example, LinkedIn is known for its focus on professional business and career content.By identifying a clear niche, BEAMit has the potential to revolutionize cross-platform communication with its innovative features and user-focused approach.
 
+https://beamit.netlify.app/
 
 
 BafokengPhokeng:
