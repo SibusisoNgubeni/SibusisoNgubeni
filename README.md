@@ -1,6 +1,12 @@
-Hi there, I'm Sibusiso Ngubeni, a passionate fullstack and backend developer with a focus on javascript engineering. I'm excited to share my work and collaborate with like-minded developers.
+Hi 👋 My name is Sibusiso Ngubeni, .
+====================================
+
+I'm a passionate fullstack and backend developer with a focus on javascript engineering. I'm excited to share my work and collaborate with like-minded developers.
+
+*   🌍  I'm based in Rustenburg, North west, South Africa
 
 🚀 About Me
+============================
 I'm a creative problem-solver who enjoys building innovative solutions to real-world challenges. My interest in fullstack and backend development stems from a deep appreciation for the power of technology and its potential to improve lives.
 
 I'm currently honing my skills in javascript engineering, with a particular focus on Node.js and React.js. I'm passionate about learning new technologies and techniques, and I'm always looking for ways to improve my skills and expand my knowledge.
