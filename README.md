@@ -22,19 +22,7 @@ I take pride in creating high-quality, well-designed software that is both funct
 I'm currently working on several projects,including:
 ==========================
 
-BEAMit:
-======================= 
-BEAMit is an exciting new platform that aims to facilitate cross-platform communication for users and organizations. The platform's main benefit is its ability to enable users to send messages or status updates to multiple social media platforms with just one click while also serving content and instant messaging services as its own standalone site/app. This saves time and effort, allowing users to reach a wider audience and engage with their followers more efficiently.
 
-As a developer, i'm in the early stages of building BEAM, currently focusing on CSS and HTML. While i'm still learning about JS, databases, and APIs, i have a clear vision for the platform's features and benefits.
-
-One of the key features of BEAMit is its ability to send messages or status updates to multiple social media platforms according to user preference at once. This includes Twitter, Facebook, Instagram, WhatsApp, LinkedIn and email. By allowing users to choose their preferred platform, BEAM ensures that messages are delivered in the most convenient and effective way possible.
-
-For organizations, BEAMit will offer a premium paid version with access to statistics. This allows organizations to target their advertising campaigns to specific interest groups, increasing their reach and engagement. To make this possible, BEAMit will incorporate learning algorithms, knowledge graphs and recommendation engines, using machine-learned user data to provide personalized recommendations and insights.
-
-The platform's niche and target audience are yet to be identified, For example, LinkedIn is known for its focus on professional business and career content.By identifying a clear niche, BEAMit has the potential to revolutionize cross-platform communication with its innovative features and user-focused approach.
-
-https://beamit.netlify.app/
 
 
 BafokengPhokeng:
@@ -51,10 +39,9 @@ I'm always looking for new opportunities to collaborate on exciting projects. If
 ================================
 I'm always happy to connect with other developers and share ideas or experiences. Here's how you can reach me:
 
-Whatsapp: 072 158 6499
-Cell: 078 691 3215
+Cell: 072 158 6499
 Email: sibusiso.ngubeni.428@gmail.com
-I'm also available for freelance work or consulting projects. Let's build something amazing together!
+
 
 📝 License
 ===========================
