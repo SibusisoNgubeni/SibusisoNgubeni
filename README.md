@@ -3,7 +3,6 @@ Hi 👋 My name is Sibusiso Ngubeni, .
 
 I'm a passionate fullstack and backend developer with a focus on javascript engineering. I'm excited to share my work and collaborate with like-minded developers.
 
-*   🌍  I'm based in Rustenburg, North west, South Africa
 
 🚀 About Me
 ============================
